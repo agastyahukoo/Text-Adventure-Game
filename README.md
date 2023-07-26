@@ -24,6 +24,8 @@ To play the game, follow these steps:
 
 ## Gameplay
 
+![Alt Text](https://github.com/agastya-hukoo/Text-Adventure-Game/blob/main/Screenshot.png)
+
 - Begin your adventure by entering your name to start the quest.
 - Explore the village and interact with its inhabitants.
 - Venture into the enchanted forest, where danger and wonder await you.
